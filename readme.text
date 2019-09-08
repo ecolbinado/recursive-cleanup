@@ -1,0 +1,4 @@
+To use script:
+Add path as an argument after the scriptfile.
+Ex:
+python3 mrdup.py /www/core/logs

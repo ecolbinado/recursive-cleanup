@@ -1,0 +1,5 @@
+RQ.01: python3
+Python 3.6.5 |Anaconda, Inc.| (default, Apr 26 2018, 08:42:37) 
+[GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
+
+RQ.02; python modules - sys, os, hashlib
